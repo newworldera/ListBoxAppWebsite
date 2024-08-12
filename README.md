@@ -1,39 +1,19 @@
-# Day-19-LightBox-Component-Elements
+# ListBox App Website
+Embarking on the journey to enhance your web development skills through hands-on projects is an exciting and rewarding experience. This approach not only solidifies your understanding of fundamental concepts but also exposes you to real-world challenges and problem-solving scenarios. By engaging in a variety of projects, from simple static websites to complex, dynamic web applications, you will gain practical experience in HTML, CSS, JavaScript, and backend technologies. Each project serves as a stepping stone, building your confidence and competence in coding, design, and user experience.
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
-
-Live Demo - https://quantumcoding123.github.io/Day-19-LightBox-Component-Elements/collapsible-menu/index.html
+Live Demo - https://newworldera.github.io/ListBoxAppWebsite/
 
 # Join Us
+GitHub-https://github.com/newworldera
 
-GitHub-https://github.com/QuantumCoding123
+YouTube-https://www.youtube.com/channel/UCOQjw35DxJYhiP8d_m8dTmQ
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+Instagram - https://instagram.com/new_world_era_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
 
-Instagram - https://www.instagram.com/quantumcoding123
+Telegram-https://t.me/+t73Q26ORYWRkYWQ1
 
-Telegram - https://t.me/QuantumCoding123
+Whatsapp- https://whatsapp.com/channel/0029VafLdr6EawdzpspHgb0O
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
-
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
-
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
-
-# Output - 1
-
-![Screenshot (81)](https://github.com/QuantumCoding123/Day-19-LightBox-Component-Elements/assets/166281221/0cc7ae67-e841-4a05-b8ae-59fcfc55ec28)
-
-
-# Output - 2
-
-![Screenshot (82)](https://github.com/QuantumCoding123/Day-19-LightBox-Component-Elements/assets/166281221/2856ceb5-f3d7-468a-b00e-98238561bf75)
-
-
-# Output - 3
-
-![Screenshot (83)](https://github.com/QuantumCoding123/Day-19-LightBox-Component-Elements/assets/166281221/dba89ddb-60b4-438a-9d11-aafa4cf55f5e)
-
-
-
+# Output 1
+![Screenshot 2024-08-13 015018](https://github.com/user-attachments/assets/9b8b2fc7-6b40-42b2-89b5-22ae8a341f59)
 
